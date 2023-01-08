@@ -5,7 +5,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+    - [Key Features](#key-features) -[Future Features](#future-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -39,6 +39,16 @@
 
 - **[Create Students]**
 - **[Create Teachers]**
+- **[Save records of borrowed books]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Key Features <a name="#future-features"></a>
+
+> Future features:
+
+- **[User UI]**
+- **[Add teacher]**
 - **[Save records of borrowed books]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
