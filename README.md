@@ -3,19 +3,23 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+  - [Tech Stack](#tech-stack)
+
+  -[Future Features](#future-features)
+
+  - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+  - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
+
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -23,8 +27,6 @@
 - [📝 License](#license)
 
 # 📖 [OOP SCHOOL LIBRARY] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[OOP SCHOOL LIBRARY]** is a tool that allows you to create students or teachers, as well as adding new books and it saves the records of who borrowed a given bookk and when.
 
@@ -38,12 +40,20 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Database that contains information about a library
-
 > Key features:
 
 - **[Create Students]**
 - **[Create Teachers]**
+- **[Save records of borrowed books]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Key Features <a name="#future-features"></a>
+
+> Future features:
+
+- **[User UI]**
+- **[Add teacher]**
 - **[Save records of borrowed books]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,8 +69,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -101,8 +109,6 @@ Install this project with:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project please give a like on GitHub
 
