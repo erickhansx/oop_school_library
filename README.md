@@ -15,7 +15,6 @@
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -23,8 +22,6 @@
 - [📝 License](#license)
 
 # 📖 [OOP SCHOOL LIBRARY] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[OOP SCHOOL LIBRARY]** is a tool that allows you to create students or teachers, as well as adding new books and it saves the records of who borrowed a given bookk and when.
 
@@ -37,8 +34,6 @@
 > Ruby
 
 ### Key Features <a name="key-features"></a>
-
-> Database that contains information about a library
 
 > Key features:
 
@@ -59,8 +54,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -101,8 +94,6 @@ Install this project with:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project please give a like on GitHub
 
