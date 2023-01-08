@@ -13,6 +13,10 @@ class Student < Person
     classroom.students.push(self) unless classroom.students.include?(self)
   end
 
+  def self.all
+    ObjectSpace.each_object(self).to_a
+  end
+
   def play_hooky
     '¯\(ツ)/¯'
   end
